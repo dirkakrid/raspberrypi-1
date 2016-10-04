@@ -1,5 +1,6 @@
 Raspberrypi utilities and stub by glframebuffer [ http://glframebuffer.wordpress.com ]
 ===========
+https://glframebuffer.wordpress.com/2013/08/28/raspberrypi-how-to-turn-off-hdmi-from-raspberry-pi/
 
 1) HDMI utility
    - switch off/on HDMI TV, monitor connected to RaspberryPI
